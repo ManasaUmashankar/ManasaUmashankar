@@ -19,9 +19,9 @@
 
 ## GitHub Stats
 
+<h2>GitHub Stats</h2>
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF"
-    alt="ManasaUmashankar GitHub Streak"
-  />
+  <img src="https://streak-stats.vercel.app/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF" 
+       alt="GitHub Streak" />
 </p>
