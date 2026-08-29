@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Coding%20from-Laptop-orange?style=for-the-badge" alt="Coding from"/>
 </p>
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/ManasaUmashankar" alt="Manasa's GitHub contribution graph"/>
+  <img src="https://ghchart.rshah.org/39d353/ManasaUmashankar" alt="Manasa's GitHub contribution graph"/>
 </p>
-
 
