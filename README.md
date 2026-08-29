@@ -59,7 +59,7 @@ class Manasa Umashankar:
   <img src="https://streak-stats.vercel.app/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF" 
        alt="GitHub Streak" />
    <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=440&lines=whoami;nmap+-sV+target;tail+-f+%2Fvar%2Flog%2Fauth.log;Securing+systems...one+packet+at+a+time" width="100%"/>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%"/>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=160&lines=whoami;root+%40+manasa-terminal;nmap+-sV+-p-+target.local;tail+-f+%2Fvar%2Flog%2Fauth.log;%5B%2B%5D+Scanning+for+open+ports...;%5B%2B%5D+Analyzing+packet+captures...;%5B%2B%5D+Access+granted%3A+blue+team+mode;Securing+systems%2C+one+packet+at+a+time" width="100%"/> </p>
   </td>
 </tr>
 </table>
