@@ -76,21 +76,12 @@
 <h3 align="center">Tools & Platforms</h3>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/tryhackme/branding/main/icon.svg" width="50" height="50" alt="TryHackMe"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="50" height="50" alt="Wireshark"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" height="50" alt="Kali Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="50" height="50" alt="Splunk"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="50" height="50" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="50" height="50" alt="TryHackMe"/>
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="50" height="50" alt="Wireshark"/>
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="50" height="50" alt="Kali Linux"/>
+  <img src="https://cdn.simpleicons.org/splunk/000000" width="50" height="50" alt="Splunk"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&labelColor=333"/>
-  <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=flat-square&labelColor=333"/>
-  <img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=flat-square&labelColor=333"/>
-  <img src="https://img.shields.io/badge/Wireshark-Learning-1679A7?style=flat-square&labelColor=333"/>
-  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&labelColor=333"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=flat-square&labelColor=333"/>
-  <img src="https://img.shields.io/badge/Splunk-Learning-000000?style=flat-square&labelColor=333"/>
-</p>
