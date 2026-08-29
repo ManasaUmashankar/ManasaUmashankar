@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Manasa Umashankar 👋</h3>
+<h3 align="center"> HELLO 👋</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/portrait_terminal.svg" width="700" alt="ASCII portrait terminal art" />
 </p>
@@ -25,7 +25,7 @@
 ### 🐍 About Me
 
 ```python
-class Manasa:
+class Manasa Umashankar:
     pronouns = "she/her"
     location = "Karnataka, India"
 
