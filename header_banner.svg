@@ -1,0 +1,35 @@
+<svg viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+  <defs>
+    <pattern id="circuit" width="70" height="70" patternUnits="userSpaceOnUse">
+      <path d="M0 35 H25 V12 H70" stroke="#22c55e" stroke-width="1.4" fill="none"/>
+      <path d="M35 70 V45 H58 V0" stroke="#22c55e" stroke-width="1.4" fill="none"/>
+      <path d="M0 60 H15" stroke="#22c55e" stroke-width="1.4" fill="none"/>
+      <circle cx="25" cy="12" r="2.2" fill="#22c55e"/>
+      <circle cx="58" cy="45" r="2.2" fill="#22c55e"/>
+      <circle cx="15" cy="60" r="1.6" fill="#22c55e"/>
+    </pattern>
+    <radialGradient id="fadeMask" cx="50%" cy="45%" r="65%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="1"/>
+      <stop offset="55%" stop-color="#000000" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="1"/>
+    </radialGradient>
+    <mask id="circuitMask">
+      <rect x="0" y="0" width="900" height="300" fill="url(#fadeMask)"/>
+    </mask>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="300" fill="url(#circuit)" opacity="0.5" mask="url(#circuitMask)"/>
+
+
+  <!-- name -->
+  <text x="450" y="105" text-anchor="middle" font-size="58" font-weight="800" fill="#c9ccd1" letter-spacing="1">Manasa Umashankar</text>
+
+  <!-- subtitle -->
+  <text x="450" y="140" text-anchor="middle" font-size="18" font-weight="600" fill="#9aa0a6">BCA Student | Aspiring SOC Analyst | Cybersecurity</text>
+
+  <!-- tagline -->
+  <g font-family="'Consolas','SF Mono',monospace" font-weight="700" font-size="24" text-anchor="middle">
+    <text x="450" y="220" fill="#22c55e">🛡️ Securing systems, one packet at a time</text>
+    <text x="450" y="255" fill="#22c55e">Blue Team Enthusiast&#160;|&#160;Open Source Learner</text>
+  </g>
+</svg>
