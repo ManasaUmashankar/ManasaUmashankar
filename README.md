@@ -66,10 +66,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Splunk-Learning-65D200?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Splunk-65D200?style=flat-square"/>
 </p>
 
 <br>
@@ -85,3 +85,12 @@
   <img src="https://cdn.simpleicons.org/splunk/000000" width="50" height="50" alt="Splunk"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&labelColor=333"/>
+</p>
