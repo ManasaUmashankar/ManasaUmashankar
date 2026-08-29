@@ -8,8 +8,7 @@
 
   <a href="https://www.linkedin.com/in/manasa-umashankar-b4a2b5389">
     <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://tryhackme.com/p/manasa.infosec">
+  </a> <a href="https://tryhackme.com/p/manasa.infosec">
     <img src="https://img.shields.io/badge/TryHackMe-View%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
   </a>
   <img src="https://img.shields.io/badge/Based%20in-Karnataka,%20India-brightgreen?style=for-the-badge" alt="Location"/>
