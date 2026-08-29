@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/portrait_terminal.svg" width="700" alt="ASCII portrait terminal art" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/github-profile-banner.svg" width="850" alt="Manasa Umashankar" />
+  <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/header_banner.svg" width="900" alt="Manasa Umashankar — BCA Student | Aspiring SOC Analyst | Cybersecurity" />
 </p>
 
   <a href="https://www.linkedin.com/in/manasa-umashankar-b4a2b5389">
