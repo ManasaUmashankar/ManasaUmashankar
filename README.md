@@ -23,25 +23,6 @@
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF" 
        alt="GitHub Streak" />
-</p>
-
-elds.io/badge/Kali%20Linux-Learning-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-Learning-000000?style=flat-square&logo=splunk&logoColor=white"/>
-</p>
-
-<p align="center"><b>Tools & Platforms</b></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-</p>
-
 <h2>🛠️ Tech Arsenal</h2>
 
 <hr>
