@@ -73,15 +73,24 @@
 </p>
 
 <br>
+<h3 align="center">Tools & Platforms</h3>
 
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+  <img src="https://raw.githubusercontent.com/tryhackme/branding/main/icon.svg" width="50" height="50" alt="TryHackMe"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="50" height="50" alt="Wireshark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="50" height="50" alt="Kali Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="50" height="50" alt="Splunk"/>
+</p>
 
-     <h3>Tools & Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-Learning-F05032?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/GitHub-Learning-181717?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/TryHackMe-Learning-212C42?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Wireshark-Learning-1679A7?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=flat-square&labelColor=333"/>
+  <img src="https://img.shields.io/badge/Splunk-Learning-000000?style=flat-square&labelColor=333"/>
 </p>
