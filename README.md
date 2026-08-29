@@ -60,6 +60,7 @@ class Manasa Umashankar:
        alt="GitHub Streak" />
   
    <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=340&height=90&lines=whoami;nmap+-sV+-p-+target.local;tail+-f+%2Fvar%2Flog%2Fauth.log;Blue+Team+Mode" width="100%"/> <br/>  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ManasaUmashankar&label=Profile%20Views&color=22C55E&style=flat-square" alt="Profile views"/> </p>
+   <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%" alt="Random dev quote"/> </p>
 </table>
 
 <h2>🛠️ Tech Arsenal</h2>
