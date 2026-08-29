@@ -74,41 +74,36 @@
 
 <br>
 
-<p align="center"><b>Tools & Platforms</b></p>
-
-<p align="center">
-  <span>
-    <img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60"/><br>
-    <sub><b>Git</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/><br>
-    <sub><b>GitHub</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="60" height="60"/><br>
-    <sub><b>TryHackMe</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60"/><br>
-    <sub><b>Wireshark</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.simpleicons.org/linux/FCC624" width="60" height="60"/><br>
-    <sub><b>Linux</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60"/><br>
-    <sub><b>Kali Linux</b></sub>
-  </span>
-  &nbsp;&nbsp;&nbsp;
-  <span>
-    <img src="https://cdn.simpleicons.org/splunk/65D200" width="60" height="60"/><br>
-    <sub><b>Splunk</b></sub>
-  </span>
-</p>
+<h3>Tools & Platforms</h3>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
+      <br/>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
+      <br/>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/tryhackme/branding/main/icon.svg" width="48" height="48" alt="TryHackMe" onerror="this.src='https://img.shields.io/badge/-TryHackMe-212C42'"/>
+      <br/>TryHackMe
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark"/>
+      <br/>Wireshark
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
+      <br/>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux"/>
+      <br/>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="48" height="48" alt="Splunk"/>
+      <br/>Splunk
+    </td>
+  </tr>
+</table>
