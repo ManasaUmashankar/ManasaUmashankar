@@ -84,21 +84,11 @@
   <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="60" height="60" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60" />
-
-</p>
-
-<p align="center">
-
+  &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="60" height="60" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/splunk/65D200" width="60" height="60" />
 
-</p>
-
-<hr>
-
-<p align="center">
-  <i>✨ Always learning. Always building. Always improving.</i>
 </p>
