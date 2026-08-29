@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/portrait_terminal.svg" width="700" alt="ASCII portrait terminal art" />
 </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/github-profile-banner.svg" width="850" alt="Manasa Umashankar" /> </p> <p align="center">
-
+<p align="center"> <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/header_banner.svg" width="900" alt="Manasa Umashankar" /> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Consolas&size=24&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&width=700&height=40&lines=Securing+systems%2C+one+packet+at+a+time;Blue+Team+Enthusiast+%7C+Open+Source+Learner;whoami;nmap+-sV+-p-+target.local" alt="Typing SVG"/> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/manasa-umashankar-b4a2b5389">
     <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
