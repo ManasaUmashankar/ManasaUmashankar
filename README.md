@@ -25,25 +25,7 @@
        alt="GitHub Streak" />
 </p>
 
-<h2>🛠️ Tech Arsenal</h2>
-
-<hr>
-
-<p align="center"><b>Languages</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Core-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-Basics-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-</p>
-
-<p align="center"><b>Cybersecurity</b></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-Learning-111111?style=flat-square&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+elds.io/badge/Kali%20Linux-Learning-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-Learning-000000?style=flat-square&logo=splunk&logoColor=white"/>
 </p>
 
@@ -58,4 +40,84 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
+
+<h2>🛠️ Tech Arsenal</h2>
+
+<hr>
+
+<p align="center"><b>Languages</b></p>
+
+<p align="center">
+
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="55" height="55" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="55" height="55" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="55" height="55" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="55" height="55" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=flat-square"/>
+  <img src="https://img.shields.io/badge/C-Basics-A8B9CC?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-Basics-ED8B00?style=flat-square"/>
+</p>
+
+<br>
+
+<p align="center"><b>Cybersecurity</b></p>
+
+<p align="center">
+
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="55" height="55" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="55" height="55" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/splunk/65D200" width="55" height="55" />
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="55" height="55" />
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cybersecurity-Learning-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-Learning-557C94?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Splunk-Learning-65D200?style=flat-square"/>
+</p>
+
+<br>
+
+<p align="center"><b>Tools & Platforms</b></p>
+
+<p align="center">
+
+  <img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/splunk/65D200" width="60" height="60" />
+
+</p>
+
+<hr>
+
+<p align="center">
+  <i>✨ Always learning. Always building. Always improving.</i>
 </p>
