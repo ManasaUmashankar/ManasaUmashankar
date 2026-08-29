@@ -59,7 +59,7 @@ class Manasa Umashankar:
   <img src="https://streak-stats.vercel.app/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF" 
        alt="GitHub Streak" />
   
-   <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=340&height=90&lines=whoami;nmap+-sV+-p-+target.local;tail+-f+%2Fvar%2Flog%2Fauth.log;Blue+Team+Mode" width="100%"/> <br/> <img src="https://github-profile-trophy.vercel.app/?username=ManasaUmashankar&theme=radical&no-frame=true&column=2&margin-w=8&margin-h=8" width="100%"/> <br/> <p align="center"> <img src="https://komarev.com/ghpvc/?username=ManasaUmashankar&label=Profile%20Views&color=22C55E&style=flat-square" alt="Profile views"/> </p>
+   <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=1200&color=22C55E&center=true&vCenter=true&multiline=true&repeat=true&width=340&height=90&lines=whoami;nmap+-sV+-p-+target.local;tail+-f+%2Fvar%2Flog%2Fauth.log;Blue+Team+Mode" width="100%"/> <br/>  <p align="center"> <img src="https://komarev.com/ghpvc/?username=ManasaUmashankar&label=Profile%20Views&color=22C55E&style=flat-square" alt="Profile views"/> </p>
 </table>
 
 <h2>🛠️ Tech Arsenal</h2>
