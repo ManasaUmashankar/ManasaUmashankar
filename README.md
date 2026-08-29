@@ -16,6 +16,4 @@
   <img src="https://img.shields.io/badge/Coding%20from-Laptop-orange?style=for-the-badge" alt="Coding from"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ManasaUmashankar&theme=react-dark" width="850" alt="Manasa's contribution graph"/>
-</p>
+
