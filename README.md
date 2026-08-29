@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/portrait_terminal.svg" width="700" alt="ASCII portrait terminal art" />
 </p>
-
+<p align="center"> <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/github-profile-banner.svg" width="850" alt="Manasa Umashankar" /> </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/manasa-umashankar-b4a2b5389">
     <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -77,18 +77,45 @@
 
 <p align="center">
 
-  <img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="60" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="60" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/splunk/65D200" width="60" height="60" />
+  <span>
+    <img src="https://cdn.simpleicons.org/git/F05032" width="60" height="60"/><br>
+    <sub><b>Git</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="60" height="60"/><br>
+    <sub><b>GitHub</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
+    <img src="https://cdn.simpleicons.org/tryhackme/212C42" width="60" height="60"/><br>
+    <sub><b>TryHackMe</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
+    <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="60" height="60"/><br>
+    <sub><b>Wireshark</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
+    <img src="https://cdn.simpleicons.org/linux/FCC624" width="60" height="60"/><br>
+    <sub><b>Linux</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
+    <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="60" height="60"/><br>
+    <sub><b>Kali Linux</b></sub>
+  </span>
+  &nbsp;&nbsp;&nbsp;
+
+  <span>
+    <img src="https://cdn.simpleicons.org/splunk/65D200" width="60" height="60"/><br>
+    <sub><b>Splunk</b></sub>
+  </span>
 
 </p>
