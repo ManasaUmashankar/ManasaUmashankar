@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Manasa 👋</h3>
+<h3 align="center">Hi, I'm Manasa Umashankar 👋</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/ManasaUmashankar/ManasaUmashankar/main/portrait_terminal.svg" width="700" alt="ASCII portrait terminal art" />
 </p>
@@ -74,36 +74,14 @@
 
 <br>
 
-<h3>Tools & Platforms</h3>
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-      <br/>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-      <br/>GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/tryhackme/branding/main/icon.svg" width="48" height="48" alt="TryHackMe" onerror="this.src='https://img.shields.io/badge/-TryHackMe-212C42'"/>
-      <br/>TryHackMe
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" width="48" height="48" alt="Wireshark"/>
-      <br/>Wireshark
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/>
-      <br/>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" width="48" height="48" alt="Kali Linux"/>
-      <br/>Kali Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/splunk/splunk-original.svg" width="48" height="48" alt="Splunk"/>
-      <br/>Splunk
-    </td>
-  </tr>
-</table>
+
+     <h3>Tools & Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=red" alt="TryHackMe"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+</p>
