@@ -17,3 +17,11 @@
   <img src="https://ghchart.rshah.org/39d353/ManasaUmashankar" alt="Manasa's GitHub contribution graph"/>
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF"
+    alt="ManasaUmashankar GitHub Streak"
+  />
+</p>
