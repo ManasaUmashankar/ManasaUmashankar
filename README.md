@@ -58,6 +58,7 @@ class Manasa Umashankar:
 <p align="center">
   <img src="https://streak-stats.vercel.app/?user=ManasaUmashankar&theme=dark&hide_border=true&background=0D1117&ring=9B5CFF&fire=FF4DA6&currStreakLabel=FF4DA6&sideLabels=FF4DA6&currStreakNum=FFD84D&sideNums=FF4DA6&dates=FFFFFF" 
        alt="GitHub Streak" />
+  <img src="https://github-readme-stats-yourname.vercel.app/api?username=ManasaUmashankar&show_icons=true&theme=radical" width="100%"/> <img src="https://github-readme-stats-yourname.vercel.app/api/streak?username=ManasaUmashankar&theme=radical" width="100%"/> <br/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=22C55E&center=true&vCenter=true&width=440&lines=whoami;nmap+-sV+target;tail+-f+%2Fvar%2Flog%2Fauth.log;Securing+systems...one+packet+at+a+time" width="100%"/>
   </td>
 </tr>
 </table>
