@@ -105,15 +105,15 @@
     <img src="https://img.shields.io/badge/GitHub-ManasaUmashankar-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/manasa-umashankar-b4a2b5389">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="YOUR_TRYHACKME_URL">
+  <a href="https://tryhackme.com/p/manasa.infosec">
     <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mail to:manasaumashankar018@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
