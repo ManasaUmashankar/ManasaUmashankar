@@ -94,3 +94,31 @@
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&labelColor=333"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&labelColor=333"/>
 </p>
+
+<hr>
+
+<h2>🤝 Connect</h2>
+
+<p align="center">
+
+  <a href="https://github.com/ManasaUmashankar">
+    <img src="https://img.shields.io/badge/GitHub-ManasaUmashankar-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="YOUR_TRYHACKME_URL">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
+  <i>🛡️ Always open to learning, collaborating & building.</i>
+</p>
