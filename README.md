@@ -17,7 +17,6 @@
   <img src="https://ghchart.rshah.org/39d353/ManasaUmashankar" alt="Manasa's GitHub contribution graph"/>
 </p>
 
-## GitHub Stats
 
 <h2>GitHub Stats</h2>
 
